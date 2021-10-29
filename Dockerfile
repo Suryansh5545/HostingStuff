@@ -4,7 +4,7 @@
 # ----------------------------------
 FROM  ubuntu:18.04
 
-LABEL author="Ankit Patel" maintainer="ankit@bmghosting.com"
+LABEL author="Suryansh Pathak" maintainer="suryanshpathak5545@gmail.com"
 
 ENV   DEBIAN_FRONTEND noninteractive
 
